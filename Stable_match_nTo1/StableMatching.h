@@ -28,7 +28,6 @@ public:
 	int blockingNum=0;										//该解的所有blocking scheme的数量
 	vector<Blockscheme> Blocking_Schemes;					//该解的所有blocking scheme,大小为[StableMatching.instance.routeNum]
 public:
-
 };
 
 

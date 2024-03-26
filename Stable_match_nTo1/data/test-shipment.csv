@@ -1,7 +1,0 @@
-shipment number,5,,,,
-shipment index,Origin,destination,Demand,Classification,Time value(CNY/TEU)
-1,0,4,120,General cargo,100
-2,1,4,140,General cargo,100
-3,2,4,160,General cargo,50
-4,2,4,60,General cargo,100
-5,0,4,50,General cargo,50
