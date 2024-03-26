@@ -1,0 +1,5 @@
+route number,3,,,,,,,,,,,,,,,,,
+route index,mode,Nodes,Line,,,,,Freight(CNY/TEU),,,,,Time (day),,,,,Capacity (TEU)
+1,River-sea combined transportation ,5,0,1,2,3,4,2600,2500,2200,max,max,6.5,6,3,max,max,170
+2,River-sea combined transportation ,4,1,2,3,4,-1,2600,2000,max,max,max,7,6,max,max,max,220
+3,River-sea combined transportation ,4,0,2,3,4,-1,2500,1300,max,max,max,8,6,max,max,max,160

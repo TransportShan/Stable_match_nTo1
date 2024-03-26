@@ -1,0 +1,9 @@
+Shipment,1,2,3,4,5,6,7,8,9,
+Route,1,2,1,7,3,4,Self,6,9,
+Total capacity in route,2275
+Total container number in shipment,1280
+Total matched container number,1185
+Stable or not,True
+Iteration num,497
+Restart num,201
+CPU time,7.28,s
