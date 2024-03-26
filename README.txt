@@ -4,14 +4,14 @@
 - The code and data sets are also available from https://github.com/TransportShan/Stable_match_nTo1.git.
 
 ## DATASETS:
-- The instance data are provided in the folder "data". 
+- The instance data are provided in the compressed file "data.rar". 
 - Each instance is named by the format "Na-Rb-Sc", in which Na means a nodes in the network, Rb means b routes and Sc means c shipments.
 - In the file "shipment.csv", the column "Classification" is redundant and filled with "-1".
 - In the file "route.csv", the first column is route index. The second column is redundant and filled with "-1". The third column is the number of nodes in this route. The fourth to (3+a)th columns are node index in this route, and unpassed nodes are filled with "-1". The (3+a+1)th to (3+2*a)th columns are freight from corresponding node to destination. The (3+2*a+1)th to (3+3*a)th columns are travel time from corresponding node to destination. The last column is the capacity of this route.
 
 
 ## RESULTS:
-- The detailed results obtained by each solution method for all instances are provided in the folder "data", name by "stable matching.csv". 
+- The detailed results obtained by each solution method for all instances are provided in the folder "result", name by "stable matching.csv". 
 
 ## CODE:
 - Code of all algorithms used in our computational experiments is provided in the folder "Stable_match_nTo1". 
