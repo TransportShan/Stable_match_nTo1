@@ -1,7 +1,7 @@
 ## INTRODUCTION:
 - Code supplement for the paper "Stable Container-Route Matching in Multimodal Transport: A Case of Yangtze River Economic Belt".
 - If you need help using the code, please send an email to shanwenxuan[at]buaa[dot]edu[dot]cn.
-- The code and data sets are also available from https://github.com/LingxiaoWu2021/SFPTMP.
+- The code and data sets are also available from https://github.com/TransportShan/Stable_match_nTo1.git.
 
 ## DATASETS:
 - The instance data are provided in the folder "data". 
@@ -14,7 +14,7 @@
 - The detailed results obtained by each solution method for all instances are provided in the folder "data", name by "stable matching.csv". 
 
 ## CODE:
-- Code of all algorithms used in our computational experiments is provided in the folder "sourcecode". 
+- Code of all algorithms used in our computational experiments is provided in the folder "Stable_match_nTo1". 
 
 ## USAGE:
 - To run an algorithm for solving an instance:
